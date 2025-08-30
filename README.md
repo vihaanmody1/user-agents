@@ -1,2 +1,1 @@
-# user-agents
-User agents list
+# User Agent Rotation
